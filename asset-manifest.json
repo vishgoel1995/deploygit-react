@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deploygit-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/deploygit-react/static/js/main.27f43b45.chunk.js",
+    "main.js.map": "/deploygit-react/static/js/main.27f43b45.chunk.js.map",
+    "runtime-main.js": "/deploygit-react/static/js/runtime-main.f177e4ff.js",
+    "runtime-main.js.map": "/deploygit-react/static/js/runtime-main.f177e4ff.js.map",
+    "static/js/2.6d87f563.chunk.js": "/deploygit-react/static/js/2.6d87f563.chunk.js",
+    "static/js/2.6d87f563.chunk.js.map": "/deploygit-react/static/js/2.6d87f563.chunk.js.map",
+    "static/js/3.f42d4d9a.chunk.js": "/deploygit-react/static/js/3.f42d4d9a.chunk.js",
+    "static/js/3.f42d4d9a.chunk.js.map": "/deploygit-react/static/js/3.f42d4d9a.chunk.js.map",
+    "index.html": "/deploygit-react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/deploygit-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6d87f563.chunk.js.LICENSE.txt": "/deploygit-react/static/js/2.6d87f563.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/deploygit-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f177e4ff.js",
+    "static/js/2.6d87f563.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.27f43b45.chunk.js"
+  ]
+}
